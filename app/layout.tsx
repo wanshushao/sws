@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Free Image Background Remover Online - Remove BG Instantly",
   description: "Remove image background for free in seconds. No signup required. Upload JPG, PNG or WEBP and download transparent PNG instantly.",
+  verification: {
+    google: "VNnp00pLNICscG4Qy25ofWTx587NkuLNrZwdpHeBTmw",
+  },
 };
 
 export default function RootLayout({
